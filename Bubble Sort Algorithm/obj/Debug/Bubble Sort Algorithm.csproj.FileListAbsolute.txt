@@ -1,0 +1,7 @@
+\\FS\STUDENT$\30006128\Desktop\Bubble Sort Algorithm\obj\Debug\Bubble Sort Algorithm.csprojAssemblyReference.cache
+\\FS\STUDENT$\30006128\Desktop\Bubble Sort Algorithm\obj\Debug\Bubble Sort Algorithm.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30006128\Desktop\Bubble Sort Algorithm\bin\Debug\Bubble Sort Algorithm.exe.config
+\\FS\STUDENT$\30006128\Desktop\Bubble Sort Algorithm\bin\Debug\Bubble Sort Algorithm.exe
+\\FS\STUDENT$\30006128\Desktop\Bubble Sort Algorithm\bin\Debug\Bubble Sort Algorithm.pdb
+\\FS\STUDENT$\30006128\Desktop\Bubble Sort Algorithm\obj\Debug\Bubble Sort Algorithm.exe
+\\FS\STUDENT$\30006128\Desktop\Bubble Sort Algorithm\obj\Debug\Bubble Sort Algorithm.pdb

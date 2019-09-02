@@ -1,0 +1,14 @@
+C:\Users\30006128\Desktop\Searching Algorithms\bin\Debug\Searching Algorithms.exe.config
+C:\Users\30006128\Desktop\Searching Algorithms\bin\Debug\Searching Algorithms.exe
+C:\Users\30006128\Desktop\Searching Algorithms\bin\Debug\Searching Algorithms.pdb
+C:\Users\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.csprojAssemblyReference.cache
+C:\Users\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.exe
+C:\Users\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.pdb
+\\FS\STUDENT$\30006128\Desktop\Searching Algorithms\bin\Debug\Searching Algorithms.exe.config
+\\FS\STUDENT$\30006128\Desktop\Searching Algorithms\bin\Debug\Searching Algorithms.exe
+\\FS\STUDENT$\30006128\Desktop\Searching Algorithms\bin\Debug\Searching Algorithms.pdb
+\\FS\STUDENT$\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.csprojAssemblyReference.cache
+\\FS\STUDENT$\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.exe
+\\FS\STUDENT$\30006128\Desktop\Searching Algorithms\obj\Debug\Searching Algorithms.pdb
